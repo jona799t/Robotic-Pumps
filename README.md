@@ -20,15 +20,15 @@ We had a lot new members and collaborated with some other groups (Shared signal 
 This was also the first time with the anti-bot mechanism which may have contributed to the lower volumes.  
 Many people, including me, lost money on the pump
 
-## Our fourth and last pump - GOGO/USDT
+### Our fourth and last pump - GOGO/USDT
 [<img src="https://media.discordapp.net/attachments/832311983943843891/878719740263137320/unknown.png">](https://discord.gg/RTsk5M8Q7h)  
 And as we thought it couldn't get worse. This pump was a complete disaster, we only had 13 USDT volume and it made 0% gain. This would be our last pump.
 
-### Why there can't be "fair" pumps
+## Why there can't be "fair" pumps
 Fair pumping has a major problem, advertising. When you pump there will always be someone left holding the bag, therefore theoretically you are going to lost 50% of your members per pump until there is no one left.  
 This was what we saw with Robotic Pumps, our member count peaked at around 1500 members and it went down to about 500.  
 
-### How much I made of the project
+## How much I made of the project
 This project weren't actually profittable for me, in total I lost about $22, but I don't care about that as it was fun to program the AI, and running the server. 
 
 ### Does this mean fair pumping is dead?
