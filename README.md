@@ -1,5 +1,5 @@
 # Robotic Pumps
-##What is this?
+## What is this?
 If you about the pump and dumps schemes on Discord and Telegram you probably know it's quite difficult to the average pumper to profit since the admins already have sell orders ready.  
 I had a thought of what a non-prepumped pump would look like and that's why I created the project Robotic Pumps.    
 
